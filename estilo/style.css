@@ -101,8 +101,8 @@ main h1 {
     color: var(--cor5);
     font-family: var(--fonte-android);
     font-weight: normal;
-    background-image: linear-gradient(to left, var(--cor1) 30%, transparent);
-    width: 580px;
+    background-image: linear-gradient(to right, var(--cor1) 10%, transparent 60%);
+    
     font-size: 1.8em;
 }
 
